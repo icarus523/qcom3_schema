@@ -1,0 +1,882 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"tevcodes"
+			],
+			[
+				"qcom16",
+				"qcom16_var"
+			],
+			[
+				"level",
+				"level_t"
+			],
+			[
+				"general_",
+				"general_maintenance"
+			],
+			[
+				"game",
+				"gameuid"
+			],
+			[
+				"valid",
+				"valid_notes_amount"
+			],
+			[
+				"Last",
+				"Last_VAR_Poll"
+			],
+			[
+				"err",
+				"err_msg"
+			],
+			[
+				"qcom",
+				"qcom16_var"
+			],
+			[
+				"response",
+				"response_sent"
+			],
+			[
+				"res",
+				"resp_required"
+			],
+			[
+				"key",
+				"keyid"
+			],
+			[
+				"reset",
+				"resetkeydisable"
+			],
+			[
+				"qcom16_GVN",
+				"get_qcom16_GVN_BVN"
+			],
+			[
+				"EGM",
+				"EGM_Game_Configuration"
+			],
+			[
+				"respn",
+				"responded"
+			],
+			[
+				"EGM_",
+				"EGM_Game_Configuration"
+			],
+			[
+				"gvn",
+				"gvnlist"
+			],
+			[
+				"meter_",
+				"meter_str"
+			],
+			[
+				"group",
+				"group_0_meters"
+			],
+			[
+				"EGM_C",
+				"EGM_CONFIGURED"
+			],
+			[
+				"poll",
+				"pollmsg"
+			],
+			[
+				"number",
+				"number_of_progressives"
+			],
+			[
+				"proces",
+				"processEFUNC"
+			],
+			[
+				"bna",
+				"bna_status"
+			],
+			[
+				"previous",
+				"previous_spama"
+			],
+			[
+				"log",
+				"log_event"
+			],
+			[
+				"door",
+				"door_open_ecode_t"
+			],
+			[
+				"ectsub",
+				"ectsubsn"
+			],
+			[
+				"Cash_Ti",
+				"Cash_TicketOut_Log_t"
+			],
+			[
+				"ect_to",
+				"ect_to_egm_queued"
+			],
+			[
+				"last",
+				"last_game"
+			],
+			[
+				"event",
+				"eventqueue"
+			],
+			[
+				"qcom3_",
+				"qcom3_event_data"
+			],
+			[
+				"cAudit",
+				"cAuditCommonResult"
+			],
+			[
+				"broa",
+				"broadcast_nak"
+			],
+			[
+				"bra",
+				"broadcast_nak"
+			],
+			[
+				"las",
+				"last_8_bit_mode"
+			],
+			[
+				"process",
+				"process_state_events"
+			],
+			[
+				"QCOM_",
+				"QCOM_GSR_FC"
+			],
+			[
+				"COLL",
+				"COLLIM_ALT"
+			],
+			[
+				"PGID",
+				"PGID_LP"
+			],
+			[
+				"MA",
+				"MAXBET"
+			],
+			[
+				"cdc_",
+				"cdc_text"
+			],
+			[
+				"cdc",
+				"cdc_text"
+			],
+			[
+				"cdc_co",
+				"cdc_cond"
+			],
+			[
+				"cdc_con",
+				"cdc_conditions"
+			],
+			[
+				"broad",
+				"broadcast_missed_err"
+			],
+			[
+				"lastpoll",
+				"lastpoll_type"
+			],
+			[
+				"bit7",
+				"bit7_Broadcast_NAK"
+			],
+			[
+				"Broad",
+				"Broadcast_NAK"
+			],
+			[
+				"NAK",
+				"NAKNextPoll"
+			],
+			[
+				"get_qcom16_NV",
+				"get_qcom16_GVN_BVN"
+			],
+			[
+				"idl",
+				"idle_mode_collect"
+			],
+			[
+				"media",
+				"media_result"
+			],
+			[
+				"xor",
+				"xorhexstring"
+			],
+			[
+				"ph",
+				"phr_queue_flg"
+			],
+			[
+				"comm",
+				"common_content_audit_flag_started"
+			],
+			[
+				"Hash",
+				"Hash_Seed"
+			],
+			[
+				"game_hash",
+				"game_hash_list"
+			],
+			[
+				"help",
+				"helpstr_t"
+			],
+			[
+				"no_game",
+				"no_game_enabled_flg"
+			],
+			[
+				"comms",
+				"comms_fault"
+			],
+			[
+				"custo",
+				"custom_commands"
+			],
+			[
+				"PLAY",
+				"PLAY_DISABLED"
+			],
+			[
+				"machine",
+				"machinePowerSaveActive"
+			],
+			[
+				"play",
+				"playSetPEF"
+			],
+			[
+				"egm",
+				"egmOK"
+			],
+			[
+				"BANK",
+				"BANKNOTE_REJECTED"
+			],
+			[
+				"pro",
+				"process_state_events"
+			],
+			[
+				"win",
+				"winmeter"
+			],
+			[
+				"max",
+				"maxect"
+			],
+			[
+				"EGM_Conf",
+				"EGM_Config_Poll"
+			],
+			[
+				"amount",
+				"amount_to_transfer"
+			],
+			[
+				"CM",
+				"CM_Mode"
+			],
+			[
+				"is",
+				"is_GVN_configured"
+			],
+			[
+				"progre",
+				"progressive_configuration"
+			],
+			[
+				"process_",
+				"process_poll"
+			],
+			[
+				"dll",
+				"dll_gvnlist"
+			],
+			[
+				"game_config",
+				"game_configuration_change"
+			],
+			[
+				"user",
+				"userWhoAmI"
+			],
+			[
+				"dll_",
+				"dll_resetComms"
+			],
+			[
+				"respon",
+				"responses"
+			],
+			[
+				"get_Q",
+				"get_qcom16_GVN_BVN"
+			],
+			[
+				"gvn_",
+				"gvn_exists_in_game"
+			],
+			[
+				"my",
+				"my_gameID"
+			],
+			[
+				"con",
+				"configured"
+			],
+			[
+				"QCOM_EGMGC",
+				"QCOM_EGMGCR_FC"
+			],
+			[
+				"pv",
+				"pvRestore"
+			],
+			[
+				"validate",
+				"validate_Denom"
+			],
+			[
+				"Confgi",
+				"Configuration"
+			],
+			[
+				"egm_conf",
+				"egm_config_poll"
+			],
+			[
+				"egm_co",
+				"egm_config_poll"
+			],
+			[
+				"system",
+				"system_lockup_request"
+			],
+			[
+				"QCOM",
+				"QCOM_GSR_FC"
+			],
+			[
+				"egmS",
+				"egmSPAMA"
+			],
+			[
+				"large",
+				"large_win"
+			],
+			[
+				"larg",
+				"large_win_lockup_t"
+			],
+			[
+				"to",
+				"tostring"
+			],
+			[
+				"ticket",
+				"ticket_entry"
+			],
+			[
+				"cash",
+				"cash_ticket_out_request_ack"
+			],
+			[
+				"saved",
+				"qcom16_saved_polls"
+			],
+			[
+				"succes",
+				"success_fail"
+			],
+			[
+				"Cash_",
+				"Cash_TicketOut_Log"
+			],
+			[
+				"sys",
+				"sys_lockup_t"
+			],
+			[
+				"per",
+				"peripheralSupported"
+			],
+			[
+				"spa",
+				"spama_displayed"
+			],
+			[
+				"spam",
+				"spam_flg"
+			],
+			[
+				"SP",
+				"SPAMA"
+			],
+			[
+				"event_TICKET",
+				"event_TICKET_OUT_PRINTING"
+			],
+			[
+				"qcom3",
+				"qcom3_state_event"
+			],
+			[
+				"lastresp",
+				"lastrespfc"
+			],
+			[
+				"SYSTEM",
+				"SYSTEM_LOCKUP"
+			],
+			[
+				"TO",
+				"TO_TSER"
+			],
+			[
+				"tick",
+				"ticket_print"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"veri",
+				"verify_time"
+			],
+			[
+				"efun",
+				"efunc_dscrpt"
+			],
+			[
+				"EGMCON",
+				"EGM_Configuration"
+			],
+			[
+				"print",
+				"printState"
+			],
+			[
+				"rx",
+				"rxECTPSN"
+			],
+			[
+				"EC",
+				"ECTPSN"
+			],
+			[
+				"PSN",
+				"EGM_PSN"
+			],
+			[
+				"eoi",
+				"eoic_ac"
+			],
+			[
+				"ect_",
+				"ect_transaction_log"
+			],
+			[
+				"ect",
+				"ect_transaction_log"
+			],
+			[
+				"ECT",
+				"ECT_Transaction_Log"
+			],
+			[
+				"lua",
+				"luaHookScript"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/User/lua53 testy.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/lua53 testy.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 126.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Install Package Control"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 131.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/dev/lua/2018-08-17 qsim3-24/qusers/qcom16/timers.lua",
+		"/C/dev/lua/2018-08-17 qsim3-24/qusers/qcom16/utils.lua",
+		"/C/dev/lua/2018-08-17 qsim3-24/qusers/qcom16/custom_commands.lua",
+		"/C/dev/lua/2018-08-17 qsim3-24/qusers/qcom16/qceq_v2.lua",
+		"/C/dev/lua/2018-08-17 qsim3-24/qusers/qcom16/log_events.lua",
+		"/C/dev/lua/2018-08-17 qsim3-24/qusers/qcom16/dll.lua",
+		"/C/dev/lua/2018-08-17 qsim3-24/qusers/qcom16/resp.lua",
+		"/C/dev/lua/2018-08-17 qsim3-24/qusers/qcom16/poll.lua",
+		"/C/dev/lua/2018-08-17 qsim3-24/qusers/qcom16/process_state_events.lua",
+		"/C/dev/lua/2018-08-17 qsim3-24/qusers/qcom16/cdc.lua",
+		"/C/dev/lua/2018-08-17 qsim3-24/qusers/qcom16/process_poll.lua",
+		"/C/dev/lua/2018-08-17 qsim3-24/qusers/qcom16/process_broadcast.lua",
+		"/C/dev/lua/2018-08-03 qsim3-23/qusers/qcom16/timers.lua",
+		"/C/dev/lua/2018-08-03 qsim3-23/qusers/qcom16/utils.lua",
+		"/C/dev/lua/2018-08-03 qsim3-23/qusers/qcom16/poll.lua",
+		"/C/dev/lua/2018-08-03 qsim3-23/qusers/qcom16/dll.lua",
+		"/C/dev/lua/2018-08-03 qsim3-23/qusers/qcom16/resp.lua",
+		"/C/dev/lua/2018-08-03 qsim3-23/qusers/qcom16/process_broadcast.lua",
+		"/C/dev/lua/2018-08-03 qsim3-23/qusers/qcom16/process_state_events.lua",
+		"/C/dev/lua/2018-08-03 qsim3-23/qusers/qcom16/process_poll.lua",
+		"/C/dev/lua/2018-06-28 qsim3/qusers/qcom16/timers.lua",
+		"/C/dev/lua/2018-06-28 qsim3/qusers/crm/qinit.lua",
+		"/C/dev/lua/2018-06-25 qsim3/qusers/qcom16/cdc.lua",
+		"/C/dev/lua/2018-06-25 qsim3/qusers/qcom16/README.md",
+		"/C/Documents and Settings/aceretjr.J2049711/My Documents/2018-02-12 QSIM/QSIM/Qcom.cpp",
+		"/C/Documents and Settings/aceretjr.J2049711/My Documents/2018-02-12 QSIM/QSIM/RESPONSE.CPP",
+		"/C/dev/lua/2018-06-25 qsim3/qusers/qcom16/log_events.lua",
+		"/C/dev/lua/2018-06-15 qsim3/qusers/qcom16/cdc.lua",
+		"/C/dev/lua/2018-06-15 qsim3/qusers/qcom16/qceq_v2.lua",
+		"/C/dev/lua/2018-06-15 qsim3/qusers/qcom16/process_broadcast.lua",
+		"/C/dev/lua/2018-06-15 qsim3/qusers/qcom16/process_state_events.lua",
+		"/C/dev/lua/2018-06-15 qsim3/qusers/qcom16/unit_test/qcom_validate_poll_length.lua",
+		"/C/dev/lua/2018-06-15 qsim3/qusers/qcom16/unit_test/utils.lua",
+		"/C/dev/lua/2018-01-22 qsim3/qsim3/qusers/qcom16/poll_test.lua",
+		"/C/dev/lua/2018-06-15 qsim3/qusers/qcom16/unit_test/poll.lua",
+		"/C/dev/lua/2018-06-15 qsim3/qusers/qcom16/poll.lua",
+		"/C/dev/lua/2018-06-08 qsim3/lua/egm.lua",
+		"/C/dev/lua/2018-06-08 qsim3/lua/qcomapi.lua",
+		"/C/dev/lua/2018-06-08 qsim3/qusers/qcom16/q16_232.lua",
+		"/C/dev/lua/2018-06-05 qsim3/qusers/qcom16/qinit.lua",
+		"/C/dev/lua/2018-06-05 qsim3/qusers/qcom16/crc16.lua",
+		"/C/Documents and Settings/aceretjr.J2049711/Application Data/Sublime Text 3/Packages/User/lua53 testy.sublime-build",
+		"/C/dev/lua/2018-06-05 qsim3/qusers/qcom16/process_state_events.lua",
+		"/C/dev/lua/2018-06-05 qsim3/qusers/qcom16/test.lua",
+		"/C/dev/lua/2018-06-05 qsim3/qusers/qcom16/qcom_validate_poll_length.lua",
+		"/C/Documents and Settings/aceretjr.J2049711/My Documents/2018-02-12 QSIM/QSIM/Qcom.c",
+		"/C/Documents and Settings/aceretjr.J2049711/My Documents/2018-02-12 QSIM/QSIM/Poll.cpp",
+		"/C/dev/lua/2018-06-05 qsim3/qusers/qcom16/unit_test/qcom_validate_poll_length.lua",
+		"/C/dev/lua/2018-06-01 qsim3-21/qusers/simple/qinit.lua",
+		"/C/dev/lua/2018-06-01 qsim3-21/qusers/simple/moduleB.lua",
+		"/C/dev/lua/2018-06-01 qsim3-21/qusers/simple/moduleA.lua",
+		"/C/dev/lua/2018-06-01 qsim3-21/qusers/qcom16/qceq_v2.lua",
+		"/C/dev/lua/2018-06-01 qsim3-21/qusers/qcom16/qinit.lua",
+		"/C/dev/lua/2018-06-01 qsim3-21/lua/egm.lua",
+		"/C/dev/lua/2018-06-01 qsim3-21/qusers/qcom16/custom_commands.lua",
+		"/C/dev/lua/2018-05-24 qsim3/qusers/qcom16/qceq_v2.lua",
+		"/C/dev/lua/2018-04-19 qsim3/qusers/crm/qinit.lua",
+		"/C/dev/lua/2018-05-24 qsim3/qusers/qcom16/dll.lua",
+		"/C/dev/lua/2018-05-24 qsim3/qusers/qcom16/README.md",
+		"/C/dev/lua/2018-05-24 qsim3/lua/egm.lua",
+		"/C/dev/lua/2018-05-24 qsim3/lua/syncevents.lua",
+		"/C/dev/lua/2018-05-16 qsim3/qusers/qcom16/resp.lua",
+		"/C/dev/lua/2018-05-16 qsim3/qusers/qcom16/custom_commands.lua",
+		"/C/dev/lua/2018-05-16 qsim3/qusers/qcom16/poll.lua",
+		"/C/dev/lua/2018-05-11 qsim3/lua/egm.lua",
+		"/C/dev/lua/2018-05-16 qsim3/qusers/qcom16/crc16.lua",
+		"/C/dev/lua/2018-05-11 qsim3/qusers/qcom16/resp.lua",
+		"/C/dev/lua/2018-05-02 qsim3/qusers/qcom16/qceq_v2.lua",
+		"/C/dev/lua/2018-05-02 qsim3/qusers/qcom16/custom_commands.lua",
+		"/C/dev/lua/2018-05-02 qsim3/lua/qcomapi.lua",
+		"/C/dev/lua/2018-05-02 qsim3/qusers/crm/qinit.lua",
+		"/C/dev/lua/2018-05-02 qsim3/qusers/qcom16/qcom16-single-egm.sublime-project",
+		"/C/dev/lua/2018-04-19 qsim3/lua/qcomapi.lua",
+		"/C/dev/lua/2018-04-19 qsim3/qusers/qcom16/utils.lua",
+		"/C/dev/lua/2018-04-19 qsim3/lua/egm.lua",
+		"/C/dev/lua/2018-04-19 qsim3/lua/hexstring.lua",
+		"/C/dev/lua/2018-04-19 qsim3/lua/qutils.lua",
+		"/C/dev/lua/2018-04-19 qsim3/qusers/qcom16/log_events.lua",
+		"/C/dev/lua/2018-03-19-16 qsim3/qusers/crm/qinit.lua",
+		"/C/dev/lua/2018-03-27 qsim3-17/qusers/qcom16/resp.lua",
+		"/C/dev/lua/2018-03-27 qsim3-17/qusers/qcom16/process_poll.lua",
+		"/C/dev/lua/2018-03-27 qsim3-17/qusers/qcom16/dll.lua",
+		"/C/dev/lua/2018-04-19 qsim3/qusers/qcom16/qceq_v2.lua",
+		"/C/dev/lua/2018-04-19 qsim3/qusers/qcom16/poll.lua",
+		"/C/dev/lua/2018-04-19 qsim3/qusers/qcom16/process_poll.lua",
+		"/C/dev/lua/2018-04-19 qsim3/qusers/qcom16/resp.lua",
+		"/C/dev/lua/2018-04-19 qcom16/qcom16/resp.lua",
+		"/C/dev/lua/2018-03-19-16 qsim3/qusers/qcom16/qceq_v2.lua",
+		"/C/dev/lua/2018-03-19-16 qsim3/qusers/qcom16/Test scenarios.txt",
+		"/C/dev/lua/2018-03-19-16 qsim3/qusers/qcom16/process_poll.lua",
+		"/C/dev/lua/2018-03-19-16 qsim3/lua/egm.lua",
+		"/C/dev/lua/2018-03-19-16 qsim3/qusers/qcom16/qinit.lua",
+		"/C/dev/lua/2018-02-28-14 qsim3/qusers/qcom16/utils.lua",
+		"/C/dev/lua/2018-02-28-14 qsim3/qusers/qcom16/resp.lua",
+		"/C/dev/lua/2018-02-28-14 qsim3/qusers/qcom16/poll.lua",
+		"/C/dev/lua/2018-02-28-14 qsim3/qusers/qcom16/resp_test.lua",
+		"/C/dev/lua/2018-02-28-14 qsim3/qusers/qcom16/qinit.lua",
+		"/C/dev/lua/2018-02-28-14 qsim3/qusers/qcom16/process_poll.lua",
+		"/C/dev/lua/2018-02-28-14 qsim3/qusers/qcom16/dll.lua",
+		"/C/dev/lua/2018-02-28-14 qsim3/qusers/qcom16/qceq_v2.lua",
+		"/C/dev/lua/2018-02-28-14 qsim3/qusers/qcom16/poll_test.lua",
+		"/C/Documents and Settings/aceretjr.J2049711/My Documents/2018-02-12 QSIM/QSIM/Qcom.h",
+		"/C/dev/lua/2018-02-28-14 qsim3/qusers/qcom16/crc16.lua",
+		"/C/dev/lua/2018-01-22 qsim3/qsim3/qusers/qcom16/qceq_v2.lua",
+		"/C/dev/lua/2018-01-22 qsim3/qsim3/qusers/qcom16/qinit.lua",
+		"/C/dev/lua/2018-01-22 qsim3/qsim3/qusers/qcom16/resp.lua",
+		"/C/dev/lua/2018-01-22 qsim3/qsim3/qusers/qcom16/utils_test.lua",
+		"/C/dev/lua/2018-01-22 qsim3/qsim3/qusers/qcom16/qceq_test.lua",
+		"/C/dev/lua/2018-01-22 qsim3/qsim3/qusers/qcom16/poll.lua",
+		"/C/dev/lua/2018-01-22 qsim3/qsim3/qusers/qcom16/dll.lua",
+		"/C/dev/lua/2018-01-22 qsim3/qsim3/qusers/qcom16/utils-test.lua",
+		"/C/dev/lua/2018-01-22 qsim3/qsim3/qusers/qcom16/bug.lua"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 112.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ti_ack_timeout_timer",
+			"cash_ticket_out_denied_spam",
+			"TICKET REJECTED",
+			"fcode",
+			"log_egm_ticket_in_timeout_extd",
+			"log_egm_cash_ticket_out_extd",
+			"log_egm_cash_ticket_printed",
+			"QC_EXT_EC_TICKET_PRINTED",
+			"log_egm_cash_ticket_printed",
+			"log_egm_cash_ticket_out_req_extd",
+			"get_qcom3_EXTD",
+			"responses.get_qcom3_EXTD",
+			"get_qcom3_EXTD",
+			"log_egm_cash_ticket_printed",
+			"TODO: James",
+			"event_type",
+			"event_type.non_prod_lic_key_detected",
+			"event_type.lic_key_detected",
+			"event_type.egm_sap_award",
+			"egm_sap_award",
+			"egm_new_game_selected",
+			"egm_period_meters_reset",
+			"egm_cashbox_cleared",
+			"egm_cancel_credit",
+			"event_type.egm_communications_timeout",
+			"event_type.egm_denom_enabled_changed",
+			"event_type.log_invalid_denomination",
+			"event_type.egm_large_win",
+			"event_type.egm_lockup_cleared",
+			"event_type.egm_system_lockup_user_response",
+			"event_type.egm_hopper_empty",
+			"event_type.egm_hopper_refill_recorded",
+			"log_events.event_type.egm_invalid_egm_configuration",
+			"event_type.egm_invalid_egm_configuration",
+			"log_events.event_type.egm_invalid_game_configuration",
+			"event_type.egm_invalid_game_configuration",
+			"event_type.egm_cash_ticket_in_request",
+			"egm_cash_ticket_in_request",
+			"egm_cash_ticket_out_print_success",
+			"event_type.egm_cash_ticket_out_request",
+			"event_type.egm_invalid_ticket_out_ack",
+			"event_type.egm_rtc_refreshed",
+			"event_type.var_enabled",
+			"event_type.egm_manufacturer_specific_event",
+			"event_type.egm_transaction_denied_credit_limit_reached",
+			"event_type.ect_from_egm",
+			"egm_power_up",
+			"log_events.ticket_in_timeout",
+			"ticket_in_timeout",
+			"ticket_in_aborted",
+			"event_type.egm_nvram_clear",
+			"event_NEW_GAME_SELECTED",
+			"validate_Denom",
+			"utils.clearSPAM",
+			"clearSPAM",
+			"SPAMC",
+			"egm_new_game_selected"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tevcodes.QC_EC_INVALID_EGM_CONFIGURATION",
+			"tevcodes.QC_EC_INVALID_GAME_CONFIGURATION"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 103.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/lua53 testy.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"res",
+				"resp.lua"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}
